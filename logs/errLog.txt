@@ -1,0 +1,5 @@
+20230125	00:48:43	345390a3-0a98-4fa3-b851-344cbc2c1ec9	Error: ENOENT: no such file or directory, stat 'E:\Mern_data\Node_js\Dave_gray\views\404.html'
+20230126	19:05:41	2d49d903-4d46-427f-a116-f83f94a01f28	Error: ENOENT: no such file or directory, stat 'E:\Mern_data\Node_js\Dave_gray\views\subdir\index.html'
+20230126	20:40:44	d5373446-4a3c-484c-b173-0537a9d9602f	Error: ENOENT: no such file or directory, stat 'E:\Mern_data\Node_js\Dave_gray\Express_Node\routes\views\subdir\index.html'
+20230126	22:06:55	93ec69f2-c0cb-468f-a138-fedd0b317a45	TypeError: Cannot read properties of undefined (reading 'firstname')
+20230215	02:24:11	f842d995-4bc7-4aaf-b6d8-b05472586204	TypeError: allowedOrigins.includes is not a function
