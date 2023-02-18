@@ -1,7 +1,7 @@
 const ROLES_LISTS = {
-  Admin: 5050,
-  User: 5051,
-  Editor: 5052,
+  Admin: 1996,
+  User: 2001,
+  Editor: 1998,
 };
 
 module.exports = ROLES_LISTS;
